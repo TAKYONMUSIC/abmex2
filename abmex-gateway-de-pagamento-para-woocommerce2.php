@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Payment Gateway ABMEX for WooCommerce
+Plugin Name: ABMEX Pay Gateway  for WooCommerce
 Description: Plugin para adicionar opção de pagamento com a plataforma ABMEX no WooCommerce.
 Version: 1.0
 */
